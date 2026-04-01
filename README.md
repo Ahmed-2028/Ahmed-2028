@@ -51,3 +51,7 @@ I am a first-year secondary student from Egypt, currently executing a **30-month
 ### 📫 Let's Connect
 * **Currently Learning:** The fundamentals of C and Python via CS50.
 * **Goal:** Building a portfolio that speaks louder than words.
+### 🛠️ Current Focus
+* 🚀 **Mastering Computational Thinking** | Learning the fundamentals of problem-solving and logic through the **Sprix (Japanese Program)**.
+* 📚 **Language Goals** | Working towards **C1 Proficiency** in German & English for future academic excellence.
+* 💻 **Computer Science** | Laying the groundwork for **CS50** and Full-Stack Development.
